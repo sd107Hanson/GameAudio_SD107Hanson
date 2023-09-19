@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4499472A-DB12-47C9-B69D-28F17F53807F}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{4499472A-DB12-47C9-B69D-28F17F53807F}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Factory Synth One" ID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}" PersistMode="Reference"/>
+				<WorkUnit Name="Factory Tencent GME" ID="{D4726262-E090-441D-87BF-E875DC3BF2BF}" PersistMode="Reference"/>
+				<WorkUnit Name="Factory Soundseed Grain" ID="{AFC59BDA-7F7C-40EB-BE11-A2FACB2CC1B8}" PersistMode="Reference"/>
+				<WorkUnit Name="Factory Crankcase REV" ID="{2281D8A6-A025-4F76-A975-15F183186BFC}" PersistMode="Reference"/>
+				<WorkUnit Name="Factory Motion" ID="{45F59F79-DD77-478C-8337-3F8F3FFF3B84}" PersistMode="Reference"/>
+				<WorkUnit Name="Factory Soundseed Air Objects" ID="{BB5DD793-F285-4F74-8D1D-DF7A4B893280}" PersistMode="Reference"/>
+				<Folder Name="New Virtual Folder" ID="{CE968A07-2177-4D5F-BE36-FC8D9F285C5E}" ShortID="152838374"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
