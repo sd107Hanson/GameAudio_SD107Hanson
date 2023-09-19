@@ -61,6 +61,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="TES1" ID="{B6F854FB-E97C-49C0-881C-9EAD92F1D06A}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
